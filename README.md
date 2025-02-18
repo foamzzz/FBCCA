@@ -5,3 +5,5 @@ MATLAB implementation code for the classic Brain-Computer Interface (BCI) SSVEP 
 CSDN article: https://blog.csdn.net/foamz/article/details/145705177?spm=1001.2014.3001.5502. 
 
 Tsinghua University's BCI team public dataset, benchmark dataset, demonstration uses only S1~S6. Dataset download link: https://bci.med.tsinghua.edu.cn/.
+
+Reference papers  "Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain–computer interface"
